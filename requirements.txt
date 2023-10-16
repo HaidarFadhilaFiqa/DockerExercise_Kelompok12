@@ -1,0 +1,5 @@
+requests 
+BeautifulSoup
+pandas==1.3.3
+psycopg2
+sqlalchemy
